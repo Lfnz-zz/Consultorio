@@ -1,0 +1,26 @@
+body {
+    background-color: #EEE;
+    color: #000;
+    font-size: 16px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.navbar{
+    background-color: #EEE;
+    border-bottom: 1px solid #77a1c1;
+    color: #000;
+    height: 6em;
+    margin-bottom: 20px;
+    min-height: 50px;    
+}
+
+a {
+    color: #000;
+    text-decoration: none;
+}
