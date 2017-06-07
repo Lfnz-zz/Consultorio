@@ -7,7 +7,7 @@ body {
 }
 
 .starter-template {
-  padding: 40px 15px;
+  padding: 9em 0 1em 0;
   text-align: center;
 }
 
@@ -15,9 +15,20 @@ body {
     background-color: #EEE;
     border-bottom: 1px solid #77a1c1;
     color: #000;
-    height: 6em;
+    height: 8em;
     margin-bottom: 20px;
     min-height: 50px;    
+}
+
+.navbar ul li a{
+    /*border-bottom: 1px solid #77a1c1;*/
+    color: #000;
+    height: 8em;
+    width: 6em;
+}
+
+.navbar ul li a:hover{
+    background-color: aqua;
 }
 
 a {
